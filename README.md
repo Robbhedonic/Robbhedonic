@@ -1,78 +1,98 @@
-<div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ916AbtxNDIDG-UdT7AkVp_Rwrtio4PAqc-g&s" width="70" height="70" alt="Nackademin logo" align="right">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7v6QwTMNe1Vi9Rq8mJoPR5dHtVB8mXID4g&s" width="70" height="70" alt="Nackademin logo" align="right">
-</div>
+<!-- Encabezado visual con logos -->
+<p align="right">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ916AbtxNDIDG-UdT7AkVp_Rwrtio4PAqc-g&s" width="60" alt="Nackademin logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7v6QwTMNe1Vi9Rq8mJoPR5dHtVB8mXID4g&s" width="60" alt="INACAP logo" />
+</p>
 
-# 👋 Hi, I'm Roberto
+<h1 align="center">Hi there 👋, I'm Roberto</h1>
 
-🎨 I’m a **Frontend Developer** passionate about UI/UX and modern web technologies.  
-💼 Currently working with **Vue**, **TypeScript**, and component-driven development.  
-🎓 Studied at **Nackademin** (Sweden) and **INACAP** (Chile), with a background in **Finance** and **Business Administration**.  
+<p align="center">
+  💻 Frontend Developer | 🎓 Finance Graduate | 🇸🇪 Based in Sweden  
+  Passionate about clean code, UI/UX design and scalable web apps.
+</p>
 
-📫 Email: **rccstockholm@outlook.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/roberto-c-0344b118a/)
+<p align="center">
+  📫 Reach me at: <strong>rccstockholm@outlook.com</strong>  
+  🔗 <a href="https://www.linkedin.com/in/roberto-c-0344b118a/" target="_blank">LinkedIn Profile</a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
-🧩 Tools: Cypress, Prisma, SAP ERP, Notion, Trello, GitHub Copilot, Figma, Tailwind, pgAdmin, Strapi, Slack
+<p align="center">
+  🧰 Cypress · Prisma ORM · GitHub Copilot · Figma · SAP ERP · Notion · Trello · Strapi · Slack
+</p>
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-- **Frontend Developer** — Nackademin, Sweden  
-- **BBA in Finance** — Universidad Tecnológica de Chile, INACAP  
-  *(Ingeniero en Administración de Empresas Mención Finanzas)*
+- 🎓 **Frontend Developer** — Nackademin (Sweden)  
+- 🎓 **BBA in Finance** — INACAP (Chile)  
+  <sub>*Ingeniero en Administración de Empresas Mención Finanzas*</sub>
 
 ---
 
 ## 💼 Key Skills
 
-- **Web Development:** Vue.js, React, TypeScript, Tailwind, SCSS  
-- **Business Knowledge:** Financial Reporting, GAAP, AP/AR, Business Strategy  
-- **Soft Skills:** Teamwork, Multitasking, Self-Learning, Process Optimization
+✔️ Vue.js, React, TypeScript, Tailwind, SCSS  
+✔️ UI/UX design, Web App Architecture  
+✔️ Financial Reporting, Business Strategy  
+✔️ Teamwork, Multitasking, Self-learning  
 
 ---
 
-## 📜 Certifications
+## 📜 Certification
 
 - ![TypeScript Badge](https://img.shields.io/badge/TypeScript-Certificate-blue)  
   [View Certificate](https://res.cloudinary.com/dbfn5lnvx/image/authenticated/s--EbB5EwDr--/v1744012034/certificates/typescript/robertohernancarcamocolivoro-8570.pdf)
 
 ---
 
+## 🚀 Featured Projects
+
+- 🎯 [First-Website-JS](https://github.com/Robbhedonic/First-Website-JS) – Full HTML/CSS/JS site  
+- 🛒 [Nathandel-OnlineShop](https://github.com/Robbhedonic/Nathandel-OnlineShop) – Vue + API e-commerce  
+- 🎨 [Figma-Project](https://github.com/Robbhedonic/FIgma-Project) – Landing page from design
+
+---
+
 ## 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robbhedonic&theme=nightowl" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robbhedonic&theme=nightowl" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robbhedonic&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Robbhedonic&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robbhedonic&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robbhedonic&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="GitHub Stats" />
+</p>
 
 ---
 
-## 🤝 Connect with me
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roberto-c-0344b118a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
 
