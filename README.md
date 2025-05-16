@@ -1,7 +1,7 @@
 <!-- Encabezado visual con logos -->
 <p align="right">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ916AbtxNDIDG-UdT7AkVp_Rwrtio4PAqc-g&s" width="60" alt="Nackademin logo" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7v6QwTMNe1Vi9Rq8mJoPR5dHtVB8mXID4g&s" width="10" alt="INACAP logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7v6QwTMNe1Vi9Rq8mJoPR5dHtVB8mXID4g&s" width="56" alt="INACAP logo" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Roberto</h1>
