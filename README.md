@@ -2,17 +2,17 @@
 
 🌱 My name is Roberto and I’m a Frontend Developer
 
-📫 How to reach me: **[rccstockholm@outlook.com]**
+📫 How to reach me: **rccstockholm@outlook.com**
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=nightowl" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robbhedonic&theme=nightowl" alt="GitHub Streak" />
 
 ## Github stats: 💻
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_GITHUB&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robbhedonic&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Robbhedonic&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Robbhedonic&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="GitHub Stats" />
 
 ---
 
