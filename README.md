@@ -1,6 +1,6 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ916AbtxNDIDG-UdT7AkVp_Rwrtio4PAqc-g&s" width ="70" height="70" alt="Nackademin logo" align="right">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEA…AAAAAAAAAAAAAAAAAAN7X/7Uea23bT4D/AAAAAElFTkSuQmCC" width ="70" height="70" alt="Inacap logo" align="right">
+
 
 <br>
 ## Hi there! 👋
