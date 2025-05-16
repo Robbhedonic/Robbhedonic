@@ -23,3 +23,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+# Certifications
+
+
+- TypeScript: [View Certificate](https://res.cloudinary.com/dbfn5lnvx/image/authenticated/s--EbB5EwDr--/v1744012034/certificates/typescript/robertohernancarcamocolivoro-8570.pdf)
+
+
+
