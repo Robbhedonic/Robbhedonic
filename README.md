@@ -1,6 +1,6 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ916AbtxNDIDG-UdT7AkVp_Rwrtio4PAqc-g&s" width ="70" height="70" alt="Nackademin logo" align="right">
-<img src="	https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…RtzwIEhdUuyDaArmznKwYxzBFEBkpuXD2MbNCGZE&usqp=CAU" width ="70" height="70" alt="Inacap logo" align="right">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…IzPkZtJT2V5676C1YZAH6TsPcp1U2HNyissjpXdA&usqp=CAU" width ="70" height="70" alt="Inacap logo" align="right">
 
 <br>
 ## Hi there! 👋
