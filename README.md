@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_GITHUB&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Robbhedonic&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="GitHub Stats" />
 
 ---
 
