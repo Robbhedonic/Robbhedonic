@@ -1,5 +1,6 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ916AbtxNDIDG-UdT7AkVp_Rwrtio4PAqc-g&s" width ="70" height="70" alt="Nackademin logo" align="right">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7v6QwTMNe1Vi9Rq8mJoPR5dHtVB8mXID4g&s" width ="70" height="70" alt="Nackademin logo" align="right">
 
 
 <br>
