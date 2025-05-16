@@ -5,45 +5,52 @@
 
 # 👋 Hi, I'm Roberto
 
-🎨 I’m a **Frontend Developer** focused on creating clean, responsive web interfaces.  
-💼 Currently exploring **Vue.js**, **JavaScript**, and building component-based UIs.  
-🎓 Studying at **Nackademin**, passionate about clean code and UI/UX.
+🎨 I’m a **Frontend Developer** passionate about UI/UX and modern web technologies.  
+💼 Currently working with **Vue**, **TypeScript**, and component-driven development.  
+🎓 Studied at **Nackademin** (Sweden) and **INACAP** (Chile), with a background in **Finance** and **Business Administration**.  
 
-📫 Email me at: **rccstockholm@outlook.com**  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roberto-c-0344b118a/)
+📫 Email: **rccstockholm@outlook.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/roberto-c-0344b118a/)
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
+
+🧩 Tools: Cypress, Prisma, SAP ERP, Notion, Trello, GitHub Copilot, Figma, Tailwind, pgAdmin, Strapi, Slack
 
 ---
 
-## 💼 Featured Projects
+## 📚 Education
 
-- 🎯 [First-Website-JS](https://github.com/Robbhedonic/First-Website-JS)  
-  Mi primer proyecto completo con HTML, CSS y JavaScript.
+- **Frontend Developer** — Nackademin, Sweden  
+- **BBA in Finance** — Universidad Tecnológica de Chile, INACAP  
+  *(Ingeniero en Administración de Empresas Mención Finanzas)*
 
-- 🛒 [Nathandel-OnlineShop](https://github.com/Robbhedonic/Nathandel-OnlineShop)  
-  E-commerce frontend creado con Vue y consumo de API.
+---
 
-- 🎨 [Figma-Project](https://github.com/Robbhedonic/FIgma-Project)  
-  Landing page basada en diseño Figma responsiva.
+## 💼 Key Skills
+
+- **Web Development:** Vue.js, React, TypeScript, Tailwind, SCSS  
+- **Business Knowledge:** Financial Reporting, GAAP, AP/AR, Business Strategy  
+- **Soft Skills:** Teamwork, Multitasking, Self-Learning, Process Optimization
 
 ---
 
 ## 📜 Certifications
 
 - ![TypeScript Badge](https://img.shields.io/badge/TypeScript-Certificate-blue)  
-  [Ver certificado](https://res.cloudinary.com/dbfn5lnvx/image/authenticated/s--EbB5EwDr--/v1744012034/certificates/typescript/robertohernancarcamocolivoro-8570.pdf)
+  [View Certificate](https://res.cloudinary.com/dbfn5lnvx/image/authenticated/s--EbB5EwDr--/v1744012034/certificates/typescript/robertohernancarcamocolivoro-8570.pdf)
 
 ---
 
@@ -68,4 +75,5 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
 
