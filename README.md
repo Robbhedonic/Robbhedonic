@@ -41,7 +41,7 @@
 
 - 🎓 **Frontend Developer** — Nackademin (Sweden)  
 - 🎓 **BBA in Finance** — INACAP (Chile)  
-  <sub>*Ingeniero en Administración de Empresas Mención Finanzas*</sub>
+  <sub>*Business Administration Engineer, Major in Finance*</sub>
 
 ---
 
