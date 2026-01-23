@@ -39,7 +39,7 @@
 ---
 
 ## 🎓 Education
-
+- 🎓 **Backend Developer** — Sundsgårdens folkhögskola (Sweden)  
 - 🎓 **Frontend Developer** — Nackademin (Sweden)  
 - 🎓 **BBA in Finance** — INACAP (Chile)  
   <sub>*Business Administration Engineer, Major in Finance*</sub>
