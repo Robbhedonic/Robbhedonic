@@ -7,7 +7,8 @@
 <h1 align="center">Hi there 👋, I'm Roberto</h1>
 
 <p align="center">
-  💻 Frontend Developer | 🎓 Finance Graduate | 🇸🇪 Based in Sweden  
+  💻 Frontend Engineer transitioning to Full-stack
+  | 🎓 Finance Graduate | 🇸🇪 Based in Sweden  
   Passionate about clean code, UI/UX design and scalable web apps.
 </p>
 
