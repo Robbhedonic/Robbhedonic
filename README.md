@@ -83,11 +83,11 @@
 
 <div align="center">
   
-![Top Langs](https://stats.up.railway.app/api/top-langs/?username=Robbhedonic&layout=compact&theme=nightowl)
-![GitHub stats](https://TU-DOMINIO.vercel.app/api?username=Robbhedonic&show_icons=true&theme=nightowl)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Robbhedonic&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Robbhedonic&theme=github_dark)
 
 </div>
+
 
 ---
 
