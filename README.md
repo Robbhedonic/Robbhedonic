@@ -82,10 +82,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robbhedonic&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Robbhedonic&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Robbhedonic&theme=nightowl" alt="GitHub Streak" />
 </p>
+
 
 ---
 
