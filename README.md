@@ -83,8 +83,8 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robbhedonic&layout=compact&theme=nightowl)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Robbhedonic&show_icons=true&theme=nightowl&cache_seconds=1800)
+![Top Langs](https://stats.up.railway.app/api/top-langs/?username=Robbhedonic&layout=compact&theme=nightowl)
+![GitHub Stats](https://stats.up.railway.app/api?username=Robbhedonic&show_icons=true&theme=nightowl)
 
 </div>
 
