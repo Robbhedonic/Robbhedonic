@@ -81,7 +81,7 @@
 ## 🤖 Fun Corner
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPucZEr_EDr5iNt1r24CTvbJzPf_BIQ3yuw&s" alt="Fun GIF" width="600"/>
+  <img src="https://www.webfx.com/wp-content/uploads/2021/10/image_01_davidope.gif" alt="Fun GIF" width="600"/>
 </p>
 
 ---
