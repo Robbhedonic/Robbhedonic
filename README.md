@@ -84,7 +84,8 @@
 <div align="center">
   
 ![Top Langs](https://stats.up.railway.app/api/top-langs/?username=Robbhedonic&layout=compact&theme=nightowl)
-![GitHub Stats](https://stats.up.railway.app/api?username=Robbhedonic&show_icons=true&theme=nightowl)
+![GitHub stats](https://TU-DOMINIO.vercel.app/api?username=Robbhedonic&show_icons=true&theme=nightowl)
+
 
 </div>
 
