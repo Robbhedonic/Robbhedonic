@@ -81,7 +81,7 @@
 ## 🤖 Fun Corner
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…WZzX3NlYXJjaCZjdD1n/S2xlARdxtV8v0IFdhl/giphy.webp" alt="Fun GIF" width="600"/>
+  <img src="https://gifdb.com/images/high/gfycat-network-background-7ceo8pg1xxgcqj90.gif" alt="Fun GIF" width="600"/>
 </p>
 
 ---
