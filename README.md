@@ -81,7 +81,7 @@
 ## 🤖 Fun Corner
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/23271093/file/original-eb1d8bdeb62fd44952390dbdfd170d36.gif" alt="Fun GIF" width="300"/>
+  <img src="https://cdn.dribbble.com/userupload/23271093/file/original-eb1d8bdeb62fd44952390dbdfd170d36.gif" alt="Fun GIF" width="600"/>
 </p>
 
 ---
