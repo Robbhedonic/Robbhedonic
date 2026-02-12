@@ -81,17 +81,11 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbhedonic&layout=compact&theme=nightowl" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Robbhedonic&show_icons=true&theme=nightowl" height="165"/>
+</p>
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robbhedonic&layout=compact&theme=nightowl)
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Robbhedonic&show_icons=true&theme=nightowl)
-
-</div>
-
-
-</div>
 
 
 
