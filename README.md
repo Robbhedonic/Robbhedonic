@@ -81,7 +81,7 @@
 ## 🤖 Fun Corner
 
 <p align="center">
-  <img src="	https://i.gifer.com/embedded/download/UBet.gif" alt="Fun GIF" width="400"/>
+  <img src="https://i.gifer.com/embedded/download/UBet.gif" alt="Fun GIF" width="400"/>
 </p>
 
 ---
