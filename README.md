@@ -78,18 +78,10 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Robbhedonic&theme=radical&row=1&column=5" />
-</p>
-
-
----
 ## 🤖 Fun Corner
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Fun GIF" width="300"/>
+  <img src="	https://i.gifer.com/embedded/download/UBet.gif" alt="Fun GIF" width="400"/>
 </p>
 
 ---
