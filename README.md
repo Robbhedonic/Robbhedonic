@@ -7,7 +7,7 @@
 <h1 align="center">Hi there 👋, I'm Roberto</h1>
 
 <p align="center">
-  💻 Frontend Engineer transitioning to Full-stack
+  💻 Full-stack with specialization on Cloud Development and Frontend Development.
   | 🎓 Finance Graduate | 🇸🇪 Based in Sweden  
   Passionate about clean code, UI/UX design and scalable web apps.
 </p>
