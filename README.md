@@ -45,11 +45,10 @@
 ---
 
 ## 🎓 Education
-- 🎓 **Cloud Developmnet** — NBI-Handelsakademin 
-- 🎓 **Backend Developer** — Sundsgårdens folkhögskola (Sweden)  
-- 🎓 **Backend Developer** — Sundsgårdens folkhögskola (Sweden)  
-- 🎓 **Frontend Developer** — Nackademin (Sweden)  
-- 🎓 **BBA in Finance** — INACAP (Chile)  
+- 🎓 **Cloud Development** — NBI-Handelsakademin (Sweden) 05-2026 to 10-2026
+- 🎓 **Backend Develoment** — Sundsgårdens folkhögskola (Sweden)  01-2026 to 05-2026
+- 🎓 **Frontend Development** — Nackademin (Sweden)  10-2023 to 05-2025
+- 🎓 **BBA in Finance** — INACAP (Chile)  03-2013 to 12-2016
   <sub>*Business Administration Engineer, Major in Finance*</sub>
 
 ---
