@@ -39,6 +39,8 @@
 ---
 
 ## 🎓 Education
+- 🎓 **Cloud Developmnet** — NBI-Handelsakademin 
+- 🎓 **Backend Developer** — Sundsgårdens folkhögskola (Sweden)  
 - 🎓 **Backend Developer** — Sundsgårdens folkhögskola (Sweden)  
 - 🎓 **Frontend Developer** — Nackademin (Sweden)  
 - 🎓 **BBA in Finance** — INACAP (Chile)  
@@ -48,7 +50,7 @@
 
 ## 💼 Key Skills
 
-✔️ Vue.js, React, TypeScript, Tailwind, SCSS  
+✔️ Vue.js, React, TypeScript, Tailwind, Angular, SQL, Docker, NODE.js , CSS , HTML, MongoDB, and SCSS  
 ✔️ UI/UX design, Web App Architecture  
 ✔️ Financial Reporting, Business Strategy  
 ✔️ Teamwork, Multitasking, Self-learning  
