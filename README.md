@@ -7,9 +7,9 @@
 <h1 align="center">Hi there 👋, I'm Roberto</h1>
 
 <p align="center">
-  💻 Full-stack with specialization on Cloud Development and Frontend Development.
-  | 🎓 Finance Graduate | 🇸🇪 Based in Sweden  
-  Passionate about clean code, UI/UX design and scalable web apps.
+  💻 Full-stack Developer specialized in Cloud Development, Backend Development and Frontend Development.
+  | ☁️ AWS Cloud | ⚙️ ASP.NET Core 8 | 🐳 Kubernetes | 🇸🇪 Based in Sweden  
+  Passionate about clean code, UI/UX design, scalable web applications and cloud-native solutions.
 </p>
 
 <p align="center">
@@ -22,43 +22,54 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
 <p align="center">
-  🧰 Cypress · Prisma ORM · GitHub Copilot · Figma · SAP ERP · Notion · Trello · Strapi · Slack · Tailwind CSS
+  🧰 C# · ASP.NET Core 8 · REST APIs · Entity Framework Core · AWS Cloud · Kubernetes · Docker · CI/CD · 
+  Cypress · Prisma ORM · GitHub Copilot · Figma · SAP ERP · Notion · Trello · Strapi · Slack · Tailwind CSS
 </p>
 
 ---
 
 ## 🎓 Education
-- 🎓 **Cloud Development** — NBI-Handelsakademin (Sweden) 05-2026 to 10-2026
-- 🎓 **Backend Develoment** — Sundsgårdens folkhögskola (Sweden)  01-2026 to 05-2026
-- 🎓 **Frontend Development** — Nackademin (Sweden)  10-2023 to 05-2025
-- 🎓 **BBA in Finance** — INACAP (Chile)  03-2013 to 12-2016
-  <sub>*Business Administration Engineer, Major in Finance*</sub>
+
+- 🎓 **Cloud Development** — NBI-Handelsakademin (Sweden) 05-2026 to 10-2026  
+  <sub>AWS Cloud, Cloud Architecture, Containers, Kubernetes and scalable applications</sub>
+
+- 🎓 **Backend Development** — Sundsgårdens folkhögskola (Sweden) 01-2026 to 05-2026  
+  <sub>C#, ASP.NET Core 8, REST APIs, databases and backend architecture</sub>
+
+- 🎓 **Frontend Development** — Nackademin (Sweden) 10-2023 to 05-2025
+
+- 🎓 **BBA in Finance** — INACAP (Chile) 03-2013 to 12-2016  
+  <sub>Business Administration Engineer, Major in Finance</sub>
 
 ---
 
 ## 💼 Key Skills
 
-✔️ Vue.js, React, TypeScript, Tailwind, Angular, SQL, Docker, NODE.js , CSS , HTML, MongoDB, and SCSS  
-✔️ UI/UX design, Web App Architecture  
+✔️ C#, ASP.NET Core 8, REST APIs, Entity Framework Core, SQL, PostgreSQL, MongoDB  
+✔️ AWS Cloud, Cloud Architecture, Docker, Kubernetes, CI/CD and cloud-native development  
+✔️ Vue.js, React, TypeScript, Angular, Tailwind CSS, HTML, CSS, SCSS  
+✔️ UI/UX Design, Web Application Architecture and scalable solutions  
 ✔️ Financial Reporting, Business Strategy  
-✔️ Teamwork, Multitasking, Self-learning  
+✔️ Teamwork, Multitasking and Continuous Learning  
 
 ---
 
@@ -66,15 +77,15 @@
 
 - 📄 [View my TypeScript Certificate](https://res.cloudinary.com/dbfn5lnvx/image/authenticated/s--EbB5EwDr--/v1744012034/certificates/typescript/robertohernancarcamocolivoro-8570.pdf)
 
-
-
 ---
 
 ## 🚀 Featured Projects
 
 - 🎯 [First-Website-JS](https://github.com/Robbhedonic/First-Website-JS) – Full HTML/CSS/JS site  
+
 - 🛒 [Nathandel-OnlineShop](https://github.com/Robbhedonic/Nathandel-OnlineShop) – Vue + API e-commerce  
-- 🎨 [Figma-Project](https://github.com/Robbhedonic/FIgma-Project) – Landing page from design
+
+- 🎨 [Figma-Project](https://github.com/Robbhedonic/FIgma-Project) – Landing page from design  
 
 ---
 
@@ -85,6 +96,7 @@
 </p>
 
 ---
+
 ## 🤖 Fun Corner
 
 <p align="center">
@@ -98,10 +110,10 @@
 <div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Robbhedonic&theme=github_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Robbhedonic&theme=github_dark)
 
 </div>
-
 
 ---
 
@@ -112,5 +124,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
-
-
