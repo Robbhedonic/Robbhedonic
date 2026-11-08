@@ -9,19 +9,29 @@
 </h1>
 
 <p align="center">
-  💻 Full-stack Developer specialized in Cloud Development, Backend Development and Frontend Development.
-  | ☁️ AWS Cloud | ⚙️ ASP.NET Core 8 | 🐳 Kubernetes | 🇸🇪 Based in Sweden  
-  Passionate about clean code, UI/UX design, scalable web applications and cloud-native solutions.
+  Full-stack Developer with a strong focus on Cloud Development, Backend Architecture, and Frontend Engineering.
 </p>
 
 <p align="center">
-  📫 Reach me at: <strong>rccstockholm@outlook.com</strong>  
+  ☁️ AWS Cloud | ⚙️ ASP.NET Core 8 | 🐳 Kubernetes | 🐍 Python | 🌐 Full-Stack Development | 🇸🇪 Based in Sweden
+</p>
+
+<p align="center">
+  📫 <strong>rccstockholm@outlook.com</strong>  
   🔗 <a href="https://www.linkedin.com/in/roberto-c-0344b118a/" target="_blank">LinkedIn Profile</a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+I am a software developer passionate about building scalable, efficient and user-centered digital solutions. My work combines frontend and backend development, cloud infrastructure, and DevOps practices to create applications that are reliable, maintainable and ready for production environments.
+
+I enjoy solving real-world problems through clean architecture, good engineering practices, and continuous learning. My experience includes web development, cloud services, containerized deployments, and modern application design.
+
+---
+
+## 🛠️ Core Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
@@ -48,72 +58,63 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
-<p align="center">
-  🧰 C# · ASP.NET Core 8 · Python · Flask · Java · C · C++ · Terraform · REST APIs · Entity Framework Core · AWS Cloud · Kubernetes · Docker · CI/CD · 
-  Cypress · Prisma ORM · GitHub Copilot · Figma · SAP ERP · Notion · Trello · Strapi · Slack · Tailwind CSS
-</p>
+### Technologies and Tools
+- Backend: C#, ASP.NET Core 8, REST APIs, Entity Framework Core
+- Frontend: HTML, CSS, JavaScript, TypeScript, Vue.js, React, Angular, Tailwind CSS
+- Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD
+- Languages: C, C++, Java, Python, Flask
+- Data: PostgreSQL, MongoDB, SQL
+- Collaboration: Git, GitHub, Figma, Notion, Trello, Slack
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Cloud Development** — NBI-Handelsakademin (Sweden) 05-2026 to 10-2026  
-  <sub>AWS Cloud, Cloud Architecture, Containers, Kubernetes and scalable applications</sub>
+- 🎓 **Cloud Development** — NBI Handelsakademin, Sweden (05/2026 - 10/2026)  
+  AWS Cloud, Cloud Architecture, Containers, Kubernetes, and scalable application development.
 
-- 🎓 **Backend Development** — Sundsgårdens folkhögskola (Sweden) 01-2026 to 05-2026  
-  <sub>C#, ASP.NET Core 8, REST APIs, databases and backend architecture</sub>
+- 🎓 **Backend Development** — Sundsgårdens Folkhögskola, Sweden (01/2026 - 05/2026)  
+  C#, ASP.NET Core 8, REST APIs, databases, and backend architecture.
 
-- 🎓 **Frontend Development** — Nackademin (Sweden) 10-2023 to 05-2025
+- 🎓 **Frontend Development** — Nackademin, Sweden (10/2023 - 05/2025)
 
-- 🎓 **BBA in Finance** — INACAP (Chile) 03-2013 to 12-2016  
-  <sub>Business Administration Engineer, Major in Finance</sub>
-
----
-
-## 💼 Key Skills
-
-✔️ C#, ASP.NET Core 8, Python, Flask, Java, C, C++, REST APIs, Entity Framework Core, SQL, PostgreSQL, MongoDB  
-✔️ AWS Cloud, Cloud Architecture, Docker, Kubernetes, Terraform, CI/CD and cloud-native development  
-✔️ Vue.js, React, TypeScript, Angular, Tailwind CSS, HTML, CSS, SCSS  
-✔️ UI/UX Design, Web Application Architecture and scalable solutions  
-✔️ Financial Reporting, Business Strategy  
-✔️ Teamwork, Multitasking and Continuous Learning  
+- 🎓 **BBA in Finance** — INACAP, Chile (03/2013 - 12/2016)  
+  Business Administration Engineer with a major in Finance.
 
 ---
 
-## 📜 Certification
+## 💼 Professional Strengths
 
-- 📄 [View my TypeScript Certificate](https://res.cloudinary.com/dbfn5lnvx/image/authenticated/s--EbB5EwDr--/v1744012034/certificates/typescript/robertohernancarcamocolivoro-8570.pdf)
+- Full-stack development with a focus on scalable and maintainable systems
+- Cloud-native application design and deployment
+- Backend API development and database integration
+- Frontend implementation with a user-centered approach
+- Team collaboration and cross-functional project work
+- Continuous learning and adapting to new technologies
+
+---
+
+## 📜 Certifications
+
+- 📄 [TypeScript Certificate](https://res.cloudinary.com/dbfn5lnvx/image/authenticated/s--EbB5EwDr--/v1744012034/certificates/typescript/robertohernancarcamocolivoro-8570.pdf)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🎯 [First-Website-JS](https://github.com/Robbhedonic/First-Website-JS) – Full HTML/CSS/JS site  
+- 🎯 [First-Website-JS](https://github.com/Robbhedonic/First-Website-JS) – Frontend project built with HTML, CSS and JavaScript.
 
-- 🛒 [Nathandel-OnlineShop](https://github.com/Robbhedonic/Nathandel-OnlineShop) – Vue + API e-commerce  
+- 🛒 [Nathandel-OnlineShop](https://github.com/Robbhedonic/Nathandel-OnlineShop) – E-commerce application built with Vue.js and API integration.
 
-- 🎨 [Figma-Project](https://github.com/Robbhedonic/FIgma-Project) – Landing page from design  
+- 🎨 [Figma-Project](https://github.com/Robbhedonic/FIgma-Project) – Landing page developed from a visual design concept.
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robbhedonic&theme=nightowl" alt="GitHub Streak" />
 </p>
-
----
-
-## 🤖 Fun Corner
-
-<p align="center">
-  <img src="https://www.webfx.com/wp-content/uploads/2021/10/image_01_davidope.gif" alt="Fun GIF" width="600"/>
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
   
@@ -125,7 +126,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roberto-c-0344b118a/" target="_blank">
