@@ -4,7 +4,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7v6QwTMNe1Vi9Rq8mJoPR5dHtVB8mXID4g&s" width="70" alt="INACAP logo" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Roberto</h1>
+<h1 align="center">
+  <b>Fullstack and Cloud Development</b>
+</h1>
 
 <p align="center">
   💻 Full-stack Developer specialized in Cloud Development, Backend Development and Frontend Development.
@@ -32,8 +34,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
@@ -41,7 +49,7 @@
 </p>
 
 <p align="center">
-  🧰 C# · ASP.NET Core 8 · REST APIs · Entity Framework Core · AWS Cloud · Kubernetes · Docker · CI/CD · 
+  🧰 C# · ASP.NET Core 8 · Python · Flask · Java · C · C++ · Terraform · REST APIs · Entity Framework Core · AWS Cloud · Kubernetes · Docker · CI/CD · 
   Cypress · Prisma ORM · GitHub Copilot · Figma · SAP ERP · Notion · Trello · Strapi · Slack · Tailwind CSS
 </p>
 
@@ -64,8 +72,8 @@
 
 ## 💼 Key Skills
 
-✔️ C#, ASP.NET Core 8, REST APIs, Entity Framework Core, SQL, PostgreSQL, MongoDB  
-✔️ AWS Cloud, Cloud Architecture, Docker, Kubernetes, CI/CD and cloud-native development  
+✔️ C#, ASP.NET Core 8, Python, Flask, Java, C, C++, REST APIs, Entity Framework Core, SQL, PostgreSQL, MongoDB  
+✔️ AWS Cloud, Cloud Architecture, Docker, Kubernetes, Terraform, CI/CD and cloud-native development  
 ✔️ Vue.js, React, TypeScript, Angular, Tailwind CSS, HTML, CSS, SCSS  
 ✔️ UI/UX Design, Web Application Architecture and scalable solutions  
 ✔️ Financial Reporting, Business Strategy  
